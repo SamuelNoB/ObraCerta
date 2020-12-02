@@ -1,4 +1,4 @@
-const { RuleTester } = require("eslint");
+
 
 exports.seed = function(knex) {
   // Deletes ALL existing entries
