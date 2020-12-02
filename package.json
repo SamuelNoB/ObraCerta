@@ -2,7 +2,7 @@
   "name": "back",
   "version": "1.0.0",
   "description": "",
-  "main": "src/sserver.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
     "dbfeed": "npx knex seed:run",
